@@ -1,5 +1,7 @@
-Hi, I'm Syed, a CS major at UCONN with a concentration on data science.
+Hi, I'm Syed, a CS major at UCONN concentrating on data analytics.
 
-I'm currently working on a tkinter app that can supplement playing the guitar when learning the fretboard.
+I'm currently working on a desktop app and an Android app.
 
-I'm also learning HTML, CSS, and JS to create a well designed and responsive portfolio website.
+I'm also learning Kotlin and calisthenics.
+
+John Shika is a good show.
